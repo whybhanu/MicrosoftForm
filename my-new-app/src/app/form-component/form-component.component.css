@@ -1,0 +1,42 @@
+.form-area{
+        width: 65%;
+        background: #fff;;
+        padding: 1rem 3.5rem 2rem 3.5rem;
+        opacity: 0.96;
+}
+.form-label{
+    font-size: 1.1rem;
+}
+p{
+    font-size: 0.9rem;
+}
+span{
+    color: rgb(170, 10, 10);
+    font-size: 1.5rem;
+}
+
+.form-check{
+    margin: 20px;
+}
+
+.form-control{
+    margin-left: 1.2rem;
+    margin-top: 0.5rem;
+}
+
+div button{
+    width: 14rem;
+    background: rgb(11, 11, 113);
+}
+
+.form-area-footer{
+    width: 65%;
+    /* height: 9rem; */
+        background: #fff;;
+        padding: 1rem 3.5rem 0rem 3.5rem;
+        opacity: 0.7;
+}
+
+.footer-foot{
+    padding: 0rem 0rem 1.2rem 0rem;
+}

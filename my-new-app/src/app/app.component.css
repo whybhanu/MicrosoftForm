@@ -1,0 +1,22 @@
+span{
+    display: flex;
+}
+
+.header-area{
+    width: 65%;
+    background: #053870;;
+    margin-top: 3rem;
+    padding: 3.5rem 3.5rem 2rem 3.5rem;
+    /* padding: 3.5rem; */
+}
+
+.heading{
+    color: white;
+    /* background: blue; */
+    position: relative;
+    margin-left: 4rem;
+}
+.para{
+    color: white;
+    margin-top: 1rem;
+}

@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url("https://cdn3.f-cdn.com/files/download/82860021/web-dev-ti.jpg");
+    /* background-image: "/Users/bhanupratapsingh/Downloads/1st-img.jpg"; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
